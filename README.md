@@ -12,7 +12,9 @@ First, set up your OPENAI api key in the environment where you will run the proj
 export OPENAI_API_KEY="your-api-key"
 ```
 
-the run 
+then run 
 ```bash
 python3 agentic_ml_pipeline.py
 ```
+
+You can view the logs for each run under the created `logs` directory.
